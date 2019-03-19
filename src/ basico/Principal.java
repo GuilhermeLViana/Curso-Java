@@ -8,12 +8,11 @@ public class Principal {
 
     public static void main(String[] args) {
         Basico a = new Basico();
-        //a.q1();
         //a.q2();
         //a.q3();
         //a.q4();
         //a.q5();
-        //a.q6();
+        //a.q6();t
         //a.q7();
         //a.q8();
         //a.q9();
